@@ -15,7 +15,7 @@ Make RepVGG Greater Again: A Quantization-aware Approach （AAAI2024）
 
 ## 📸 Release
 
-* ⏳ QARepVGG training code. Note that the implementation is already provided in [YOLOv6](https://github.com/meituan/YOLOv6) and used in [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md). Both are well known objector detectors.
+* ⏳ QARepVGG training code. Note that the implementation is already provided in [YOLOv6](https://github.com/meituan/YOLOv6) and used in [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md). Both are well known object detectors.
 
 ## 🦙 Model Zoo
 #### Some models (continue updating)
@@ -29,7 +29,7 @@ Make RepVGG Greater Again: A Quantization-aware Approach （AAAI2024）
 
 ## 🛠️ Install
 
-1. Clone this repository and navigate to MobileVLM folder
+1. Clone this repository and navigate to QARepVGG folder
    ```bash
    git clone  https://github.com/cxxgtxy/QARepVGG.git
    cd QARepVGG
